@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# Except legal documents
+!TOS.md
+!PRIVACY.md
+!.gitignore
