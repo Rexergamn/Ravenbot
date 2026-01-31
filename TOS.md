@@ -56,12 +56,23 @@ Some League of Legends tournaments may require paid entry fees using Discord's m
 - Tournament prizes are distributed based on tournament results and verification
 - You accept the risk of technical issues, disputes, or tournament cancellations
 
-### 4.2 Prize Distribution
+### 4.2 Prize Distribution and Fees
 
-Tournament prizes (Int Coins or other rewards):
-- Are awarded based on tournament results and verification by tournament administrators
-- May be withheld or forfeited if cheating, rule violations, or Terms violations are detected
-- Are final once distributed and cannot be reversed
+**Paid Tournament Fee Structure:**
+- **Discord's platform fee**: 10% of each entry fee
+- **House/operational fee**: 30% of each entry fee
+- **Prize pool contribution**: 60% of each entry fee goes to the tournament prize pool
+- Example: $10 entry = $1 Discord fee + $3 house fee + $6 to prize pool
+
+**Int Coins Tournament Fee Structure:**
+- **House fee**: 40% of each entry fee (for operational costs and consistency)
+- **Prize pool contribution**: 60% of each entry fee goes to the tournament prize pool
+- Example: 1,000 coins entry = 400 coins house fee + 600 coins to prize pool
+
+**Prize Award Terms:**
+- Prizes are awarded based on tournament results and verification by tournament administrators
+- Prizes may be withheld or forfeited if cheating, rule violations, or Terms violations are detected
+- Prizes are final once distributed and cannot be reversed
 
 ### 4.3 Dispute Resolution
 
