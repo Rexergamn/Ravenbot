@@ -63,9 +63,10 @@ All League of Legends tournaments comply with Riot Games' third-party tournament
 
 **Paid Tournament Fee Structure:**
 - **Prize pool contribution**: 70% of each entry fee (Riot Games minimum requirement)
-- **Discord's platform fee**: 10% of each entry fee
-- **House/operational fee**: 20% of each entry fee (bot hosting, server costs, administration)
-- Example: $10 entry = $7 to prize pool + $1 Discord fee + $2 house fee
+- **Discord's platform fee**: 15% of each entry fee (Growth Tier rate for first $1M in sales)
+- **House/operational fee**: 15% of each entry fee (bot hosting, server costs, administration)
+- Example: $10 entry = $7 to prize pool + $1.50 Discord fee + $1.50 house fee
+- Note: Discord's platform fee increases to 30% after $1M in cumulative sales
 
 **Int Coins Tournament Fee Structure:**
 - **Prize pool contribution**: 70% of each entry fee (Riot Games compliance)
