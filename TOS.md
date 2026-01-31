@@ -1,17 +1,17 @@
-# Terms of Service - Yuumi Discord Bot
+# Terms of Service - Raven Discord Bot
 
 **Last Updated:** January 31, 2026
 **Effective Date:** January 31, 2026
 
 ## 1. Acceptance of Terms
 
-By using Yuumi ("the Bot") on this Discord server, you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, you must not use the Bot.
+By using Raven ("the Bot") on this Discord server, you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, you must not use the Bot.
 
 Use of the Bot is also subject to Discord's Terms of Service and Community Guidelines.
 
 ## 2. Service Description
 
-Yuumi is a private Discord bot providing the following services:
+Raven is a private Discord bot providing the following services:
 
 - **Music Playback**: Stream audio from YouTube and other sources in Discord voice channels
 - **Economy System**: Virtual currency ("Int Coins") with casino games and transactions
@@ -275,6 +275,6 @@ For questions, concerns, support requests, or data deletion requests regarding t
 
 ---
 
-**Yuumi Discord Bot** - Version 2.0.0
+**Raven Discord Bot** - Version 2.0.0
 
 Terms of Service effective as of January 31, 2026

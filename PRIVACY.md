@@ -1,11 +1,11 @@
-# Privacy Policy - Yuumi Discord Bot
+# Privacy Policy - Raven Discord Bot
 
 **Last Updated:** January 31, 2026
 **Effective Date:** January 31, 2026
 
 ## 1. Introduction
 
-This Privacy Policy describes how Yuumi ("the Bot," "we," "us," or "our") collects, uses, stores, and protects your personal information when you use the Bot on Discord.
+This Privacy Policy describes how Raven ("the Bot," "we," "us," or "our") collects, uses, stores, and protects your personal information when you use the Bot on Discord.
 
 By using the Bot, you agree to the collection and use of information in accordance with this Privacy Policy. If you do not agree with this Privacy Policy, you must not use the Bot.
 
@@ -324,7 +324,7 @@ For questions, concerns, or requests regarding this Privacy Policy or your perso
 
 ---
 
-**Yuumi Discord Bot** - Version 2.0.0
+**Raven Discord Bot** - Version 2.0.0
 
 Privacy Policy effective as of January 31, 2026
 
